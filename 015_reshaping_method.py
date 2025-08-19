@@ -1,0 +1,16 @@
+import numpy as np
+
+arr = np.arange(24)
+print(arr)
+reshaped_4x6 = arr.reshape(4, 6)
+print(reshaped_4x6)
+print()
+reshaped_4x2x3 = arr.reshape(4, 2, 3)
+print(reshaped_4x2x3)
+print()
+reshaped_2x3x4 = arr.reshape(2, 3, 4)
+print(reshaped_2x3x4)
+print()
+reshaped_3x8 = arr.reshape(3, 8)
+print(reshaped_3x8)
+print()
