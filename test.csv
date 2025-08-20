@@ -1,0 +1,4 @@
+CourseID,CourseName,Instructor,Fee,Duration
+1,Python,John,20000.0,3 months
+2,Java,Jane,15000.0,4 months
+3,JavaScript,Jim,18000.0,2 months
